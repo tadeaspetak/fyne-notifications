@@ -1,0 +1,6 @@
+[Details]
+  Icon = "icon.png"
+  Name = "FyneNotifications"
+  ID = "github.com/tadeaspetak/fyne-notifications"
+  Version = "0.0.1"
+  Build = 3
